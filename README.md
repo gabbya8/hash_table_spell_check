@@ -26,4 +26,3 @@ Case A: go through every letter in incorrect word and add a letter from the alph
 Case B: go through every letter in incorrect word and remove a letter to form a new word.  If the new word matched what is in the dictionary, then we have a fix.
 
 Case C: go through every letter in the incorrect word, except last one and swap letters adjacent to each other to form a new word.  If new word matches what is in dictionary, then we have a fix. 
-# hash_table_spell_check

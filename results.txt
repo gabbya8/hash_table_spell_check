@@ -1,0 +1,91 @@
+this is CORRECT
+is is CORRECT
+a is CORRECT
+comlete is INCORRECT
+** comlete -> a ** case A
+** comlete -> complete ** case A
+transcript is CORRECT
+of is CORRECT
+patel's is INCORRECT
+decision is CORRECT
+which is CORRECT
+was is CORRECT
+issued is CORRECT
+orally is CORRECT
+in is CORRECT
+which is CORRECT
+she is CORRECT
+explains is CORRECT
+the is CORRECT
+basis is CORRECT
+for is CORRECT
+granting is CORRECT
+the is CORRECT
+injunction is CORRECT
+because is CORRECT
+it is CORRECT
+marks is CORRECT
+one is CORRECT
+of is CORRECT
+the is CORRECT
+first is CORRECT
+times is CORRECT
+a is CORRECT
+judge is CORRECT
+has is CORRECT
+issued is CORRECT
+a is CORRECT
+deciasion is INCORRECT
+** deciasion -> decision ** case B
+in is CORRECT
+a is CORRECT
+case is CORRECT
+of is CORRECT
+online is INCORRECT
+musicswapping is INCORRECT
+patel's is INCORRECT
+interpretation is CORRECT
+of is CORRECT
+the is CORRECT
+lwa is INCORRECT
+** lwa -> wa ** case B
+** lwa -> la ** case B
+** lwa -> law ** case C
+is is CORRECT
+likely is CORRECT
+to is CORRECT
+be is CORRECT
+widely is CORRECT
+cited is CORRECT
+in is CORRECT
+subsequent is CORRECT
+cases is CORRECT
+and is CORRECT
+will is CORRECT
+be is CORRECT
+crucial is CORRECT
+to is CORRECT
+the is CORRECT
+court is CORRECT
+of is CORRECT
+appeals is CORRECT
+as is CORRECT
+it is CORRECT
+grapples is CORRECT
+with is CORRECT
+the is CORRECT
+case is CORRECT
+the is CORRECT
+merits is CORRECT
+first is CORRECT
+of is CORRECT
+all is CORRECT
+with is CORRECT
+respect is CORRECT
+to is CORRECT
+lwa is INCORRECT
+** lwa -> wa ** case B
+** lwa -> la ** case B
+** lwa -> law ** case C
+napster is INCORRECT
+wildfire is CORRECT
